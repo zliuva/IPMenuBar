@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'IPMenuBar' target in the 'IPMenuBar' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
